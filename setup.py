@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="Mobile-Robotics-Exercises",
+    name="MobileRoboticsGT",
     version="0.0.1",
     author="Robin Amsters",
     author_email="robin.amsters@kuleuven.be",
