@@ -1,5 +1,5 @@
 # Mobile_Robotics_Exercises
- Files related to the (online) exercises sessions from the mobile robotics course at KU Leuven, campus group T
+Files related to the (online) exercises sessions from the mobile robotics course at KU Leuven, campus group T
 
 
 
