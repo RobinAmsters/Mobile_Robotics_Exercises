@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="MobileRoboticsGT",
-    version="0.0.3",
+    version="0.0.4",
     author="Robin Amsters",
     author_email="robin.amsters@kuleuven.be",
     description="A Files related to the (online) exercises sessions from the mobile robotics course at KU Leuven, campus group T",
