@@ -4,14 +4,14 @@ import gi
 gi.require_version("Gtk", "3.0")
 from gi.repository import Gtk
 from gi.repository import GLib
-import gui.frame
-import gui.viewer
-from models.map_manager import MapManager
-from models.robot import Robot
-from models.world import World
-from views.world_view import WorldView
-from sim_exceptions.collision_exception import CollisionException
-from sim_exceptions.goal_reached_exception import GoalReachedException
+import sobotRimulator.gui.frame
+import sobotRimulator.gui.viewer
+from sobotRimulator.models.map_manager import MapManager
+from sobotRimulator.models.robot import Robot
+from sobotRimulator.models.world import World
+from sobotRimulator.views.world_view import WorldView
+from sobotRimulator.sim_exceptions.collision_exception import CollisionException
+from sobotRimulator.sim_exceptions.goal_reached_exception import GoalReachedException
 
 REFRESH_RATE = 20.0  # hertz
 
