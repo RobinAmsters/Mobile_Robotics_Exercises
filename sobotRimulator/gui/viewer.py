@@ -5,6 +5,7 @@ gi.require_version("Gdk", "3.0")
 from gi.repository import Gdk
 from sobotRimulator.gui.frame import Frame
 from sobotRimulator.gui.painter import Painter
+from sys import exit
 
 
 display = Gdk.Display.get_default()
