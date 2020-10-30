@@ -1,9 +1,0 @@
-# Local files you use to do your work can go here.
-.local
-
-# Compiled Python files.
-*.pyc
-
-# Text editor backups.
-*.py~
-*.swp
