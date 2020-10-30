@@ -1,4 +1,4 @@
-from gui.color_palette import ColorPalette
+from sobotRimulator.gui.color_palette import ColorPalette
 from math import pi
 
 
